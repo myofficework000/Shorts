@@ -1,4 +1,4 @@
-#  Shorts Clone
+#  Shorts Using Jetpack compose
 Using Jetpack Compose & Media 3
 
 ## Description
